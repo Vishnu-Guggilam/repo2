@@ -1,8 +1,11 @@
 h
 hi
 ha
+<<<<<<< HEAD
 he
 hel
 hell
+=======
+>>>>>>> b2f0556eb0e62757843bbd33a9f16127d17919d1
 hello
 
